@@ -18,4 +18,4 @@ This is possible with the use of data and predictive models. The most important 
 With your predictive model, it is important to interpret the results in order to understand how “predictive” the data really was and whether we can feasibly use it to predict the target outcome (customers buying holidays). Therefore, you should evaluate the model's performance and output how each variable contributes to the predictive model's power.
 
 ## Certificate of Completion
-/assets/images/Certificate of Completion.png
+![Certificate of Completion](https://github.com/mohammad20306/British-Airways-Virtual-Internship/blob/main/Certificate%20of%20Completion.png)
